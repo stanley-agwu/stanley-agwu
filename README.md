@@ -7,7 +7,6 @@ My experiences range from building applications for E-commerce, Insurance, Banki
 I also have full-stack experience working with Java, Nodejs, Python, and Django. Recently, with the advancements in Artificial Intelligence (AI) and Large Language Models(LLM), I have not only developed a strong interest, but I have also explored areas of AI and LLMs such as: Retrieval-Augmented Generation (RAG), LLM fine-turning and AI agents.
 
 <br/>
-<br/>
 
 ### 🛠️ Top technologies that I use (Languages, tools, and others):
 
@@ -27,9 +26,8 @@ I also have full-stack experience working with Java, Nodejs, Python, and Django.
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 <br/>
-<br/>
 
-### Additional Information about me
+### 🚀 Additional Information about me
 
 - 🔥 I love architecting and building user-facing applications of different sizes and complexities.
 - 🌱 I have competency in Data structures and Algorithms;
@@ -40,12 +38,26 @@ I also have full-stack experience working with Java, Nodejs, Python, and Django.
 - 📫 How to reach me: :email: stanleyagwu2017@gmail.com;
 
 <br/>
-<br/>
 
-### 🔗 **Connect with me**
+### 🔗 Connect with me
 
 <p align="left">
     <a href="https://www.linkedin.com/in/stanley-agwu-ab31a7223/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
+</p>
+
+<br/>
+
+### 📈 GitHub Stats:
+<p>
+<img align="left" height="180rem" src="https://github-readme-stats.vercel.app/api?username=stanley-agwu&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=gruvbox" alt="stanley-agwu-stats" />
+
+<img align="left" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanley-agwu&count_private=true&include_all_commits=true&show_icons=true&theme=gruvbox&hide_border=true&layout=compact" alt="stanley-agwu-top-lang" />
+</p>
+
+<br/>
+
+<p>
+<img align="left" height="180rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stanley-agwu&theme=gruvbox" alt="stanley-agwu-graph" />
 </p>
