@@ -2,14 +2,14 @@
 
 My name is Stanley, and I'm a Senior Front-end Software Engineer. I have spent the last few years building software applications to solve exciting and challenging problems.
 
-My experiences ranges from building applications for E-commerce, Insurance, Banking, Clinical trials and Engineering industries.
+My experiences range from building applications for E-commerce, Insurance, Banking, Clinical trials, and Engineering industries.
 
-I also have full-stack experience working with Java, Nodejs, Python and Django. And recently, with the advancements in Artificial Intelligence (AI) and Large Language Models(LLM), I have not only developed a strong interest, but I have also explored areas of AI and LLMs such as: Retrieval-Augmented Generation (RAG), LLM fine-turning and AI agents.
+I also have full-stack experience working with Java, Nodejs, Python, and Django. Recently, with the advancements in Artificial Intelligence (AI) and Large Language Models(LLM), I have not only developed a strong interest, but I have also explored areas of AI and LLMs such as: Retrieval-Augmented Generation (RAG), LLM fine-turning and AI agents.
 
 <br/>
 <br/>
 
-### 🛠️ Top technologies that I use (Languages,Tools and Others):
+### 🛠️ Top technologies that I use (Languages, tools, and others):
 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
@@ -29,14 +29,14 @@ I also have full-stack experience working with Java, Nodejs, Python and Django. 
 <br/>
 <br/>
 
-### <img src="https://giphy.com/embed/8TpmrsFUeT98Pltn5I" width="50" alt="info" /> Additional Information about me
+### Additional Information about me
 
-- 🔥 I love architecting and building user facing applications of different sizes and complexities.
+- 🔥 I love architecting and building user-facing applications of different sizes and complexities.
 - 🌱 I have competency in Data structures and Algorithms;
 - 🌱 I have competency in Design systems;
-- ✅ I have good understanding of some backend technologies.
+- ✅ I have a good understanding of some backend technologies.
 - 🤔 I’m developing competencies in building applications that use AI and LLMs;
-- ⚡️ Check me out on my My Personal Website: https://stanley-agwu.vercel.app;
+- ⚡️ Check me out on my portfolio website: https://stanley-agwu.vercel.app;
 - 📫 How to reach me: :email: stanleyagwu2017@gmail.com;
 
 <br/>
