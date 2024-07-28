@@ -49,7 +49,7 @@ I also have full-stack experience working with Java, Nodejs, Python, and Django.
 
 <br/>
 
-### 📈 GitHub Stats:
+<!-- ### 📈 GitHub Stats:
 <p>
 <img align="left" height="180rem" src="https://github-readme-stats.vercel.app/api?username=stanley-agwu&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=gruvbox" alt="stanley-agwu-stats" />
 
@@ -60,4 +60,4 @@ I also have full-stack experience working with Java, Nodejs, Python, and Django.
 
 <p>
 <img align="left" height="180rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stanley-agwu&theme=gruvbox" alt="stanley-agwu-graph" />
-</p>
+</p> -->
