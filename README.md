@@ -17,6 +17,9 @@ I also have full-stack experience working with Java, Nodejs, Python, and Django.
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+[![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&labelColor=black&logo=fastapi&logoColor=009688)](#)
+[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)
+[![DRF Badge](https://img.shields.io/badge/-Django%20REST-ff1709?style=for-the-badge&labelColor=black&logo=django&logoColor=ff1709)](#)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,9 +34,10 @@ I also have full-stack experience working with Java, Nodejs, Python, and Django.
 ### 🚀 Additional Information about me
 
 - 🔥 I love architecting and building user-facing applications of different sizes and complexities.
-- 🌱 I have competency in Data structures and Algorithms;
-- 🌱 I have competency in Design systems.
-- ✅ I have a good understanding of some backend technologies.
+- 🔥 I build Full-stack applications from the ground-up -> back-end to the front-end.
+- 🌱 I have competency in Data structures and Algorithms.
+- ✅ I have experience working with backend technologies, RESTful API design etc.
+- 🌱 I have competency in Design systems, Object-Oriented Programming (OOP), etc.
 - 🤔 I’m developing competencies in building applications that use AI and LLMs.
 - ⚡️ Check me out on my portfolio website: https://stanley-agwu.vercel.app.
 - 📫 How to reach me: :email: stanleyagwu2017@gmail.com.
