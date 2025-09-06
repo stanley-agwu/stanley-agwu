@@ -31,11 +31,11 @@ I also have full-stack experience working with Java, Nodejs, Python, and Django.
 
 - 🔥 I love architecting and building user-facing applications of different sizes and complexities.
 - 🌱 I have competency in Data structures and Algorithms;
-- 🌱 I have competency in Design systems;
+- 🌱 I have competency in Design systems.
 - ✅ I have a good understanding of some backend technologies.
-- 🤔 I’m developing competencies in building applications that use AI and LLMs;
-- ⚡️ Check me out on my portfolio website: https://stanley-agwu.vercel.app;
-- 📫 How to reach me: :email: stanleyagwu2017@gmail.com;
+- 🤔 I’m developing competencies in building applications that use AI and LLMs.
+- ⚡️ Check me out on my portfolio website: https://stanley-agwu.vercel.app.
+- 📫 How to reach me: :email: stanleyagwu2017@gmail.com.
 
 <br/>
 
@@ -49,7 +49,7 @@ I also have full-stack experience working with Java, Nodejs, Python, and Django.
 
 <br/>
 
-### 📈 GitHub Stats:
+<!-- ### 📈 GitHub Stats:
 <p>
 <img align="left" height="180rem" src="https://github-readme-stats.vercel.app/api?username=stanley-agwu&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=gruvbox" alt="stanley-agwu-stats" />
 
@@ -60,4 +60,4 @@ I also have full-stack experience working with Java, Nodejs, Python, and Django.
 
 <p>
 <img align="left" height="180rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stanley-agwu&theme=gruvbox" alt="stanley-agwu-graph" />
-</p>
+</p> -->
